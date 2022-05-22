@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Star_Wars_Guess</string>
+    <string name="banner">banner</string>
 </resources>
